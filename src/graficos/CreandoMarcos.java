@@ -2,7 +2,8 @@ package graficos;
 import javax.swing.*;
 
 
-
+// Jesus Ortega
+// 29891702
 public class CreandoMarcos {
 
 	public static void main(String[] args) {
